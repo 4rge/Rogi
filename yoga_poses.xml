@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yoga>
+    <pose>
+        <name>Warrior II</name>
+        <description>Stand with your feet wide apart, turn your right foot out, bend the right knee, and extend your arms out to the sides.</description>
+        <targetedMuscles>Quadriceps, Hamstrings, Glutes, Core, Shoulders</targetedMuscles>
+        <difficulty>Intermediate</difficulty>
+    </pose>
+    <pose>
+        <name>Chair Pose</name>
+        <description>Stand tall, lift your arms overhead, and bend your knees as if sitting in a chair.</description>
+        <targetedMuscles>Quadriceps, Glutes, Lower Back, Shoulders</targetedMuscles>
+        <difficulty>Beginner</difficulty>
+    </pose>
+    <pose>
+        <name>Plank Pose</name>
+        <description>Start in a tabletop position and step your feet back, keeping your body in a straight line.</description>
+        <targetedMuscles>Core, Shoulders, Chest, Arms, Legs</targetedMuscles>
+        <difficulty>Intermediate</difficulty>
+    </pose>
+    <pose>
+        <name>Crescent Lunge</name>
+        <description>Step back into a lunge, lowering your back knee and raising your arms overhead.</description>
+        <targetedMuscles>Quadriceps, Hamstrings, Glutes, Core, Hip Flexors</targetedMuscles>
+        <difficulty>Intermediate</difficulty>
+    </pose>
+    <pose>
+        <name>Downward-Facing Dog</name>
+        <description>Start on your hands and knees, tuck your toes, and lift your hips up and back.</description>
+        <targetedMuscles>Hamstrings, Calves, Shoulders, Upper Back</targetedMuscles>
+        <difficulty>Beginner</difficulty>
+    </pose>
+    <pose>
+        <name>Tree Pose</name>
+        <description>Stand on one leg and place the other foot on your inner thigh or calf, and bring your hands to prayer position.</description>
+        <targetedMuscles>Legs, Core, Ankles, Hips</targetedMuscles>
+        <difficulty>Intermediate</difficulty>
+    </pose>
+    <pose>
+        <name>Bridge Pose</name>
+        <description>Lie on your back, bend your knees and raise your hips while keeping your feet flat on the floor.</description>
+        <targetedMuscles>Glutes, Hamstrings, Lower Back, Chest</targetedMuscles>
+        <difficulty>Beginner</difficulty>
+    </pose>
+    <pose>
+        <name>Cobra Pose</name>
+        <description>Lie on your stomach, place your hands under your shoulders, and lift your chest while keeping your hips on the floor.</description>
+        <targetedMuscles>Abdominals, Arms, Spine</targetedMuscles>
+        <difficulty>Beginner</difficulty>
+    </pose>
+    <pose>
+        <name>Boat Pose</name>
+        <description>Sit with your legs extended and lean back slightly while lifting your legs and arms to form a V shape.</description>
+        <targetedMuscles>Core, Hip Flexors, Spine</targetedMuscles>
+        <difficulty>Intermediate</difficulty>
+    </pose>
+    <pose>
+        <name>Crow Pose</name>
+        <description>Squat and place your hands on the ground, lean forward, and lift your feet off the ground.</description>
+        <targetedMuscles>Arms, Shoulders, Core, Wrists</targetedMuscles>
+        <difficulty>Advanced</difficulty>
+    </pose>
+    <pose>
+        <name>Side Plank</name>
+        <description>Start in a plank position, shift onto one arm and leg, stacking your feet and raising the other arm up.</description>
+        <targetedMuscles>Core, Shoulders, Obliques, Wrists</targetedMuscles>
+        <difficulty>Intermediate</difficulty>
+    </pose>
+    <pose>
+        <name>Pigeon Pose</name>
+        <description>Bring one knee forward and extend the other leg back, folding your torso over your bent knee.</description>
+        <targetedMuscles>Hips, Glutes, Lower Back</targetedMuscles>
+        <difficulty>Intermediate</difficulty>
+    </pose>
+    <pose>
+        <name>Child's Pose</name>
+        <description>Start on your knees, sit back on your heels, and stretch your arms forward, resting your forehead on the ground.</description>
+        <targetedMuscles>Back, Shoulders, Hips</targetedMuscles>
+        <difficulty>Beginner</difficulty>
+    </pose>
+    <pose>
+        <name>Cat-Cow Stretch</name>
+        <description>Start on your hands and knees, alternate arching your back (Cat) and lifting your head and tailbone (Cow).</description>
+        <targetedMuscles>Spine, Neck, Back</targetedMuscles>
+        <difficulty>Beginner</difficulty>
+    </pose>
+    <pose>
+        <name>Seated Forward Bend</name>
+        <description>Sit with your legs extended in front and bend forward from the hips, reaching for your feet.</description>
+        <targetedMuscles>Hamstrings, Spine, Shoulders</targetedMuscles>
+        <difficulty>Beginner</difficulty>
+    </pose>
+    <pose>
+        <name>Fish Pose</name>
+        <description>Lie on your back, lift your chest and place the crown of your head on the ground, pushing your elbows down.</description>
+        <targetedMuscles>Chest, Neck, Shoulders</targetedMuscles>
+        <difficulty>Intermediate</difficulty>
+    </pose>
+    <pose>
+        <name>Eagle Pose</name>
+        <description>Cross one leg over the other and wrap your arms around each other, then bend your knees to lower your hips.</description>
+        <targetedMuscles>Hips, Legs, Arms, Shoulders</targetedMuscles>
+        <difficulty>Intermediate</difficulty>
+    </pose>
+    <pose>
+        <name>Bound Angle Pose</name>
+        <description>Sit with the soles of your feet together and gently press your knees toward the ground.</description>
+        <targetedMuscles>Inner Thighs, Hips</targetedMuscles>
+        <difficulty>Beginner</difficulty>
+    </pose>
+    <pose>
+        <name>Wide-Legged Forward Bend</name>
+        <description>Stand with feet wide apart and bend forward, reaching for the ground or your feet.</description>
+        <targetedMuscles>Hamstrings, Lower Back, Calves</targetedMuscles>
+        <difficulty>Intermediate</difficulty>
+    </pose>
+    <pose>
+        <name>Puppy Pose</name>
+        <description>Start on your hands and knees, walk your hands forward, and lower your chest toward the ground.</description>
+        <targetedMuscles>Chest, Shoulders, Spine</targetedMuscles>
+        <difficulty>Beginner</difficulty>
+    </pose>
+</yoga>
